@@ -1,0 +1,3 @@
+[submodule "external/erpnext"]
+	path = external/erpnext
+	url = https://github.com/frappe/erpnext.git
